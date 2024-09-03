@@ -1,12 +1,10 @@
-# README
-Stopped on step 7 of guide. https://guides.rubyonrails.org/getting_started.html 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Blog
+Using this guide: https://guides.rubyonrails.org/getting_started.html 
 
 Things you may want to cover:
 
 * Ruby version
-
+  *3.2.2
 * System dependencies
 
 * Configuration
